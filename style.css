@@ -21,7 +21,7 @@ body {
   background-position: center center;
   background-repeat: no-repeat;
   /* max-width: 100%; */
-  /* background-size: max(1200px, 100vw); */
+  background-size: max(1000px, 100vw);
   background-size: 100vw;
   height: 73vh;
   position: relative;
@@ -415,3 +415,4 @@ footer span a {
     font-size: 0.7rem;
   }
 }
+
